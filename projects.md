@@ -59,6 +59,7 @@ Wpisać nazwę zespołu z linkiem do repozytorium z kodem i dokumentacją.
 1. [Białe Mielone](https://github.com/romety2/nosql)
 1. [Krystian Kisielewski](https://bitbucket.org/nosql2017/nosql/wiki/Egzamin)
 1. [Sebastian Czarnecki](https://github.com/sebcza/nosql-egzamin)
+1. [Piotr Kacprowicz, Damian Centek, Daniel Banasiak](https://github.com/Undauted/NoSQL-exam)
 
 ----
 
